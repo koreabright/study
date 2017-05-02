@@ -1,0 +1,34 @@
+{
+    "name": "KoreaBright",
+    "version": "1.0.0",
+    "description": "KoreaBright",
+    "keywords": [
+        ""
+    ],
+    "homepage": "http://JSLite.io",
+    "author": "hanshuang <hanshuang@yunniao.me>",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "licenses": "MIT",
+    "idoc": {
+        "theme": "default",
+        "md": [
+            "index.md",
+            {
+                "关于": [
+                    "idoc.md",
+                    "markdown.md"
+                ]
+            },
+            {
+                "前端初窥": [
+                    "css3.md",
+                    "html5.md",
+                    "js.md"
+                ]
+            }
+        ]
+    }
+}
