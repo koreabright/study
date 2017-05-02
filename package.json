@@ -1,7 +1,7 @@
 {
-    "name": "KoreaBright",
+    "name": "koreabright",
     "version": "1.0.0",
-    "description": "KoreaBright",
+    "description": "step by step",
     "keywords": [
         ""
     ],
@@ -17,13 +17,13 @@
         "md": [
             "index.md",
             {
-                "关于": [
+                "about": [
                     "idoc.md",
                     "markdown.md"
                 ]
             },
             {
-                "前端初窥": [
+                "basic": [
                     "css3.md",
                     "html5.md",
                     "js.md"
