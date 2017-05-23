@@ -28,6 +28,11 @@
                     "html5.md",
                     "js.md"
                 ]
+            },
+            {
+                "js": [
+                    "redBook.md"
+                ]
             }
         ]
     }

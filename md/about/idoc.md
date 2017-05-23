@@ -10,7 +10,8 @@
 4. 在 test 文件夹根目录初始化运行 idoc init 命令，自动生成 package.json 文件。
 5. 生成静态页面，运行 idoc build 命令。
 6. 运行 idoc server 预览生成的静态页面。默认预览地址为 http://localhost:1987/。
-7. 这个时候你可以将生成的文件上传至 github 的 gh-pages 分支中，外网预览。     
+7. 这个时候你可以将生成的文件上传至 github 的 gh-pages 分支中，外网预览。
+8. 注意: idoc要求node版本在6.x.x以上     
 
 #### 如何在github上面创建gh-pages分支
 1. 在test目录中执行，git init, 使这个目录变成一个git仓库
